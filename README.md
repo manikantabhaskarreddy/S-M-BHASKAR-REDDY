@@ -15,11 +15,11 @@ I'm constantly expanding my skill set by:
 
 ### Collaboration 🚀
 I believe in the power of teamwork! Let's join forces to create innovative solutions. I'm open to collaborating on projects involving:
-* [List of your preferred project areas, e.g., web development, mobile app development, data science]
+* [web development, backend application, Java]
 
 ### Seeking Help 🤔
 I'm always eager to learn and grow. Feel free to share your knowledge and insights. I'm particularly interested in:
-* [Specific areas where you need help, e.g., performance optimization, design patterns]
+* [performance optimization, design patterns]
 
 ### Ask Me About 💬
 I love talking about technology, coding challenges, and finding creative solutions. Don't hesitate to reach out! 
